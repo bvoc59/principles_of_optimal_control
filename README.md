@@ -8,7 +8,7 @@ This repository contains code examples and assignment  solutions for the MIT Ope
 ## Clone the Repository 
 
 ```
-git clone ... op_control 
+git clone https://github.com/bvoc59/principles_of_optimal_control.git op_control 
 cd op_control 
 ```
 
