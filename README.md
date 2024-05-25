@@ -26,3 +26,6 @@ jupyter notebook examples/unconstrained_minimization.ipynb
 ```
 
 If a browser does not automatically open, simply copy and paste one of the automatically generated URL's to access the server, hosted on `localhost`. 
+
+# License 
+MIT OCW is responsible for the content referenced: their license can be found [here](https://ocw.mit.edu/pages/privacy-and-terms-of-use/#cc). 
