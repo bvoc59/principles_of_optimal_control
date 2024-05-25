@@ -31,6 +31,7 @@ If a browser does not automatically open, simply copy and paste one of the autom
 MIT OCW is responsible for the content referenced: their license can be found [here](https://ocw.mit.edu/pages/privacy-and-terms-of-use/#cc). No additional changes were made to their content. Accordingly, this project has been licensed as follows: 
 
 **Creative Commons License**
+
 **Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
 
 A human-readable summary of (and not a substitute for) the license can be found [here](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode). 
