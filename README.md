@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ```
 
 # Running Examples 
-Examples are nothing more than Jupyter Notebooks. For instance, to launch the  `unconstrained_minimization.ipynb` example, run the following command: 
+Examples are nothing more than Jupyter Notebooks. More specifically, they consist of material complimentary to the lecture notes, in the form of python code with explanations. To launch the  `unconstrained_minimization.ipynb` example, for instance, run the following command: 
 
 ```
 jupyter notebook examples/unconstrained_minimization.ipynb 
